@@ -1,0 +1,20 @@
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\obj\Debug\net6.0-windows\Tarea 2 Laboratorio 1.csproj.AssemblyReference.cache
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\obj\Debug\net6.0-windows\Tarea_2_Laboratorio_1.OrganizadorEventos.PantallaInicial.resources
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\obj\Debug\net6.0-windows\Tarea 2 Laboratorio 1.csproj.GenerateResource.cache
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\obj\Debug\net6.0-windows\Tarea 2 Laboratorio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\obj\Debug\net6.0-windows\Tarea 2 Laboratorio 1.AssemblyInfoInputs.cache
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\obj\Debug\net6.0-windows\Tarea 2 Laboratorio 1.AssemblyInfo.cs
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\obj\Debug\net6.0-windows\Tarea 2 Laboratorio 1.csproj.CoreCompileInputs.cache
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\bin\Debug\net6.0-windows\Tarea 2 Laboratorio 1.exe
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\bin\Debug\net6.0-windows\Tarea 2 Laboratorio 1.deps.json
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\bin\Debug\net6.0-windows\Tarea 2 Laboratorio 1.runtimeconfig.json
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\bin\Debug\net6.0-windows\Tarea 2 Laboratorio 1.dll
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\bin\Debug\net6.0-windows\Tarea 2 Laboratorio 1.pdb
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\obj\Debug\net6.0-windows\Tarea 2 Laboratorio 1.dll
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\obj\Debug\net6.0-windows\refint\Tarea 2 Laboratorio 1.dll
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\obj\Debug\net6.0-windows\Tarea 2 Laboratorio 1.pdb
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\obj\Debug\net6.0-windows\Tarea 2 Laboratorio 1.genruntimeconfig.cache
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\obj\Debug\net6.0-windows\ref\Tarea 2 Laboratorio 1.dll
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\bin\Debug\net6.0-windows\bibliotecaEventos.dll
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\bin\Debug\net6.0-windows\bibliotecaEventos.pdb
+C:\Users\JOSE EDUARDO\source\repos\Tarea 2 Laboratorio 1\obj\Debug\net6.0-windows\Tarea 2 Laboratorio 1.csproj.CopyComplete

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tarea 2 Laboratorio 1/1.0.0": {
+        "dependencies": {
+          "bibliotecaEventos": "1.0.0"
+        },
+        "runtime": {
+          "Tarea 2 Laboratorio 1.dll": {}
+        }
+      },
+      "bibliotecaEventos/1.0.0": {
+        "runtime": {
+          "bibliotecaEventos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea 2 Laboratorio 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bibliotecaEventos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
